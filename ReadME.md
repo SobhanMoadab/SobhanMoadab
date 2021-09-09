@@ -1,4 +1,4 @@
-👋 Hi, I’m Sobhan Moadab and I have insatiable thirst for knowledge. Currently located in Iran but im fluent in English.
+
 
 👀 I’m interested in Back-end technologies written in Javascript, Typescript.
 
